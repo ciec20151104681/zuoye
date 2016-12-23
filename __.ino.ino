@@ -1,6 +1,6 @@
 void setup() {
   // put your setup code here, to run once:
-myservo.attach(6);
+myservo.attach(6);//设定舵机的接口
 }
 
 void loop() {
